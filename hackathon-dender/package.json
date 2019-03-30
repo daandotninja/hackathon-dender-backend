@@ -8,9 +8,14 @@
   "dependencies": {
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
-    "express": "~4.16.0",
+    "express": "^4.16.4",
+    "firebase-admin": "^7.2.0",
+    "firebase-functions": "^2.2.1",
     "http-errors": "~1.6.2",
+    "hummus": "^1.0.95",
     "jade": "~1.11.0",
-    "morgan": "~1.9.0"
+    "lodash": "^4.17.11",
+    "morgan": "~1.9.0",
+    "path": "^0.12.7"
   }
 }
